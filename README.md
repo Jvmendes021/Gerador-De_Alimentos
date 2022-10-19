@@ -1,1 +1,7 @@
-# Gerador-De_Alimentos
+# Gerador de Refeições Aleatórias 🍽🍷
+
+Tecnologias utilizadas ⚒️
+
+- HTML 
+- JAVASCRIPT 
+- SCSS 
