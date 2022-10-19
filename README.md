@@ -2,6 +2,7 @@
 
 Tecnologias utilizadas ⚒️
 
-- HTML 
+- HTML
+- CSS
 - JAVASCRIPT 
 - SCSS 
